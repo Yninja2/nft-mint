@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2e1e399839bbf9fc7850a58d3c54a78cf127c46c",
+  "SCAN_LINK": "https://polygonscan.com/address/0x2e1e399839bbf9fc7850a58d3c54a78cf127c46c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "TESTAA",
+  "SYMBOL": "MYE",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.0001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/ja/collection/testaa-1",
+  "SHOW_BACKGROUND": false
+}
